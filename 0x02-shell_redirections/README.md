@@ -1,1 +1,1 @@
-This is a Hello, World command
+Displays a confused_smiley
