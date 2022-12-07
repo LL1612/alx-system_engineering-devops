@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./0x02-shell_redirections *.gif |ls -Rla
+find ./ *.gif |find . -exec ls {} \
